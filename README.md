@@ -1,5 +1,6 @@
 # CarbonUI
-This is the official repository for the CarbonUI library.
+This is the official repository for the CarbonUI library.  
+Documentation can be found in [the wiki.](https://github.com/WoffleTbh/CarbonUI/wiki)
 
 # Preview
 ![Preview](https://github.com/WoffleTbh/CarbonUI/blob/main/githubAssets/preview1.png?raw=true)  
